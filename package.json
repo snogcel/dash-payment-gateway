@@ -13,7 +13,7 @@
   "dependencies": {
     "async": "*",
     "bitcore-lib-dash": "^0.15.0",
-    "bitcore-wallet-client-dash": "^2.11.1",
+    "bitcore-wallet-client-dash": "snogcel/bitcore-wallet-client-dash#master_upstream",
     "body-parser": "^1.15.2",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
